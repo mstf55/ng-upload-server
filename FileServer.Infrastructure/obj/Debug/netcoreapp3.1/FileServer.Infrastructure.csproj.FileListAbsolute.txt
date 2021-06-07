@@ -1,0 +1,12 @@
+C:\Users\mstfa\source\repos\FileServer\FileServer.Infrastructure\bin\Debug\netcoreapp3.1\FileServer.Infrastructure.deps.json
+C:\Users\mstfa\source\repos\FileServer\FileServer.Infrastructure\bin\Debug\netcoreapp3.1\FileServer.Infrastructure.dll
+C:\Users\mstfa\source\repos\FileServer\FileServer.Infrastructure\bin\Debug\netcoreapp3.1\FileServer.Infrastructure.pdb
+C:\Users\mstfa\source\repos\FileServer\FileServer.Infrastructure\bin\Debug\netcoreapp3.1\FileServer.Core.dll
+C:\Users\mstfa\source\repos\FileServer\FileServer.Infrastructure\bin\Debug\netcoreapp3.1\FileServer.Core.pdb
+C:\Users\mstfa\source\repos\FileServer\FileServer.Infrastructure\obj\Debug\netcoreapp3.1\FileServer.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\mstfa\source\repos\FileServer\FileServer.Infrastructure\obj\Debug\netcoreapp3.1\FileServer.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\mstfa\source\repos\FileServer\FileServer.Infrastructure\obj\Debug\netcoreapp3.1\FileServer.Infrastructure.AssemblyInfo.cs
+C:\Users\mstfa\source\repos\FileServer\FileServer.Infrastructure\obj\Debug\netcoreapp3.1\FileServer.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\mstfa\source\repos\FileServer\FileServer.Infrastructure\obj\Debug\netcoreapp3.1\FileServer.Infrastructure.csproj.CopyComplete
+C:\Users\mstfa\source\repos\FileServer\FileServer.Infrastructure\obj\Debug\netcoreapp3.1\FileServer.Infrastructure.dll
+C:\Users\mstfa\source\repos\FileServer\FileServer.Infrastructure\obj\Debug\netcoreapp3.1\FileServer.Infrastructure.pdb

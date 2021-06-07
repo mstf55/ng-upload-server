@@ -1,0 +1,9 @@
+C:\Users\mstfa\source\repos\FileServer\FileServer.Core\bin\Debug\netcoreapp3.1\FileServer.Core.deps.json
+C:\Users\mstfa\source\repos\FileServer\FileServer.Core\bin\Debug\netcoreapp3.1\FileServer.Core.dll
+C:\Users\mstfa\source\repos\FileServer\FileServer.Core\bin\Debug\netcoreapp3.1\FileServer.Core.pdb
+C:\Users\mstfa\source\repos\FileServer\FileServer.Core\obj\Debug\netcoreapp3.1\FileServer.Core.csproj.AssemblyReference.cache
+C:\Users\mstfa\source\repos\FileServer\FileServer.Core\obj\Debug\netcoreapp3.1\FileServer.Core.AssemblyInfoInputs.cache
+C:\Users\mstfa\source\repos\FileServer\FileServer.Core\obj\Debug\netcoreapp3.1\FileServer.Core.AssemblyInfo.cs
+C:\Users\mstfa\source\repos\FileServer\FileServer.Core\obj\Debug\netcoreapp3.1\FileServer.Core.csproj.CoreCompileInputs.cache
+C:\Users\mstfa\source\repos\FileServer\FileServer.Core\obj\Debug\netcoreapp3.1\FileServer.Core.dll
+C:\Users\mstfa\source\repos\FileServer\FileServer.Core\obj\Debug\netcoreapp3.1\FileServer.Core.pdb
