@@ -3,15 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31321.278
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileServer", "FileServer\FileServer.csproj", "{1F8298D9-DF21-41BA-9B9D-2A145C894816}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FileServerApi", "FileServer\FileServerApi.csproj", "{1F8298D9-DF21-41BA-9B9D-2A145C894816}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileServer.App", "FileServer.App\FileServer.App.csproj", "{1D403FFF-64F3-4240-9DAB-068B2A0DA95B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FileServer.App", "FileServer.App\FileServer.App.csproj", "{1D403FFF-64F3-4240-9DAB-068B2A0DA95B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileServer.Core", "FileServer.Core\FileServer.Core.csproj", "{1FD007DD-969A-4979-8740-788CE28715A6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FileServer.Core", "FileServer.Core\FileServer.Core.csproj", "{1FD007DD-969A-4979-8740-788CE28715A6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileServer.Infrastructure", "FileServer.Infrastructure\FileServer.Infrastructure.csproj", "{49BBC193-8573-450B-A26E-740AFC742E69}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FileServer.Infrastructure", "FileServer.Infrastructure\FileServer.Infrastructure.csproj", "{49BBC193-8573-450B-A26E-740AFC742E69}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTesting", "UnitTesting\UnitTesting.csproj", "{A7784E0E-A11C-45BE-B63A-E66BDFC3671D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnitTesting", "UnitTesting\UnitTesting.csproj", "{A7784E0E-A11C-45BE-B63A-E66BDFC3671D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1004,9 +1004,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mstfa\\source\\repos\\FileServer\\FileServer\\FileServer.csproj",
-      "projectName": "FileServer",
-      "projectPath": "C:\\Users\\mstfa\\source\\repos\\FileServer\\FileServer\\FileServer.csproj",
+      "projectUniqueName": "C:\\Users\\mstfa\\source\\repos\\FileServer\\FileServer\\FileServerApi.csproj",
+      "projectName": "FileServerApi",
+      "projectPath": "C:\\Users\\mstfa\\source\\repos\\FileServer\\FileServer\\FileServerApi.csproj",
       "packagesPath": "C:\\Users\\mstfa\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\mstfa\\source\\repos\\FileServer\\FileServer\\obj\\",
       "projectStyle": "PackageReference",

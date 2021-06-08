@@ -1933,27 +1933,6 @@
           "build/netcoreapp2.1/xunit.runner.visualstudio.props": {}
         }
       },
-      "FileServer/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
-        "dependencies": {
-          "AutoMapper.Extensions.Microsoft.DependencyInjection": "8.1.1",
-          "FileServer.App": "1.0.0",
-          "FileServer.Infrastructure": "1.0.0",
-          "Microsoft.EntityFrameworkCore": "5.0.6",
-          "Microsoft.EntityFrameworkCore.InMemory": "5.0.6",
-          "Newtonsoft.Json": "13.0.1"
-        },
-        "compile": {
-          "bin/placeholder/FileServer.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/FileServer.dll": {}
-        },
-        "frameworkReferences": [
-          "Microsoft.AspNetCore.App"
-        ]
-      },
       "FileServer.App/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
@@ -1991,6 +1970,27 @@
         "runtime": {
           "bin/placeholder/FileServer.Infrastructure.dll": {}
         }
+      },
+      "FileServerApi/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "AutoMapper.Extensions.Microsoft.DependencyInjection": "8.1.1",
+          "FileServer.App": "1.0.0",
+          "FileServer.Infrastructure": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "5.0.6",
+          "Microsoft.EntityFrameworkCore.InMemory": "5.0.6",
+          "Newtonsoft.Json": "13.0.1"
+        },
+        "compile": {
+          "bin/placeholder/FileServerApi.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FileServerApi.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       }
     }
   },
@@ -6660,11 +6660,6 @@
         "xunit.runner.visualstudio.nuspec"
       ]
     },
-    "FileServer/1.0.0": {
-      "type": "project",
-      "path": "../FileServer/FileServer.csproj",
-      "msbuildProject": "../FileServer/FileServer.csproj"
-    },
     "FileServer.App/1.0.0": {
       "type": "project",
       "path": "../FileServer.App/FileServer.App.csproj",
@@ -6679,11 +6674,16 @@
       "type": "project",
       "path": "../FileServer.Infrastructure/FileServer.Infrastructure.csproj",
       "msbuildProject": "../FileServer.Infrastructure/FileServer.Infrastructure.csproj"
+    },
+    "FileServerApi/1.0.0": {
+      "type": "project",
+      "path": "../FileServer/FileServerApi.csproj",
+      "msbuildProject": "../FileServer/FileServerApi.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "FileServer >= 1.0.0",
+      "FileServerApi >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 16.7.1",
       "Moq >= 4.16.1",
       "coverlet.collector >= 1.3.0",
@@ -6718,8 +6718,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\mstfa\\source\\repos\\FileServer\\FileServer\\FileServer.csproj": {
-              "projectPath": "C:\\Users\\mstfa\\source\\repos\\FileServer\\FileServer\\FileServer.csproj"
+            "C:\\Users\\mstfa\\source\\repos\\FileServer\\FileServer\\FileServerApi.csproj": {
+              "projectPath": "C:\\Users\\mstfa\\source\\repos\\FileServer\\FileServer\\FileServerApi.csproj"
             }
           }
         }

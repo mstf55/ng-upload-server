@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cmHbR3MK4NXxfgQr+3M7QMDClGUK15fCIE0CRCdogfk5HFZk/px+hGbeKt2c37W3xQLvEnHfhp0wZa7/JvLZYA==",
+  "dgSpecHash": "mVOqf6EHoZn1IXK/vYS2eeyHD/gL8vK5iFM/gG9H16odZ69nrmsra/O7H5fvrxBGcEKjKlTR2CUzjXLPZT4o3A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mstfa\\source\\repos\\FileServer\\FileServer\\FileServer.csproj",
+  "projectFilePath": "C:\\Users\\mstfa\\source\\repos\\FileServer\\FileServer\\FileServerApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mstfa\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\mstfa\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
