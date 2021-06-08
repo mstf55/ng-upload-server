@@ -20,13 +20,13 @@ namespace FileServer.Attributes
         object value, ValidationContext validationContext)
         {
             var file = value as IFormFile;
-         
-                var extension = Path.GetExtension(file.FileName);
-                if (!_extensions.Contains(extension.ToLower()))
-                {
-                    throw new ApplicationException(GetErrorMessage(extension)); 
-                }
-            
+
+            var extension = Path.GetExtension(file.FileName);
+            if (!_extensions.Contains(extension.ToLower()))
+            {
+                throw new ApplicationException(GetErrorMessage(extension));
+            }
+
 
             return ValidationResult.Success;
         }
