@@ -9,7 +9,7 @@ namespace FileServer.App.Interfaces
     public interface IFileService
     {
         Task<IEnumerable<FileModel>> GetFileList();
-        Task<FileModel> Create(FileModel productModel);
+        Task<FileModel> Create(FileModel fileModel);
 
     }
 }

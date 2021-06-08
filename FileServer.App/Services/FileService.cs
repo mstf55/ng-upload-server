@@ -21,7 +21,7 @@ namespace FileServer.App.Services
 
         public async Task<FileModel> Create(FileModel fileModel)
         {
-            await ValidateProductIfExist(fileModel);
+            await ValidateFileIfExist(fileModel);
 
             var mappedEntity = ObjectMapper.Mapper.Map<UploadedFile>(fileModel);
             if (mappedEntity == null)
@@ -40,7 +40,7 @@ namespace FileServer.App.Services
             return mappedList;
         }
 
-        private async Task ValidateProductIfExist(FileModel fileModel)
+        private async Task ValidateFileIfExist(FileModel fileModel)
         {
             var existingEntity = await _fileRepository.GetFileByNameAsync(fileModel.Name);
             if (existingEntity.Count > 0)

@@ -10,6 +10,6 @@ namespace FileServer.Interfaces
     public interface IFileFrontService
     {
         Task<IEnumerable<FileWrapperViewModel>> GetFiles();
-        Task<FileViewModel> CreateFile(IFormFile productViewModel);
+        Task<FileViewModel> CreateFile(IFormFile fileViewModel);
     }
 }
